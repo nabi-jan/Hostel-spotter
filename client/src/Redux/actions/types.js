@@ -1,0 +1,10 @@
+export const CREATE_OWNER = "CREATE_OWNER";
+export const CREATE_USER = "CREATE_USER";
+export const RESPONSE_ERROR = "RESPONSE_ERROR";
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const FETCH_USER = "FETCH_USER";
+export const FETCH_HOSTEL_OWNER = "FETCH_HOSTEL_OWNER";
+export const ADD_CATEGORY = "ADD_CATEGORY";
+export const FETCH_CATEGORY = "FETCH_CATEGORY";
+export const DELETE_CATEGORY = "DELETE_CATEGORY";
